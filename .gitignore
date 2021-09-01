@@ -1,0 +1,15 @@
+# Ignore files inside build directory at the root of the repository
+
+/build/
+
+# Ignore all files ending with *.env
+
+*.env
+
+#Ignore all files in the subdirectory test-runs/logs
+
+test-runs/log/
+
+# ignore specific files
+
+*.csv
