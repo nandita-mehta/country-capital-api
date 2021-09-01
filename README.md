@@ -2,8 +2,8 @@
 
 **Developed Using:**
 
-Python
-Flask
+•	Python<br>
+•	Flask
 
 **Feature:**
 
@@ -17,3 +17,11 @@ ASGI (Asynchronous Server Gateway Interface) is a standard way of communication 
 **How to use the API**
 
 The microservice endpoint is available at https://example.com/country-capital/<query-params> for this API that can be used by any project in the organization to consume API.
+  
+**Prerequistes**
+To use this API, it is required to have following tools installed:
+
+•	Python<br>
+•	Flask<br>
+•	Uvicorn<br>
+•	IDE
