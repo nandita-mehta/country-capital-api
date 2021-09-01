@@ -1,0 +1,10 @@
+PR Title: FEAPP-420: Allow customer notification via WhatsApp
+PR Description:
+WHAT:
+Update made to product listing should be notified via WhatsApp as well, along with Email.
+NOTES:
+Allow customer to enter WhatsApp number to get notification and also an option for selecting notification medium.
+WHY:
+WhatsApp is easy and more frequently used as compared to email.
+PR Reviewers:
+John Cena, Mary Kom
